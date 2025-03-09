@@ -68,9 +68,11 @@ I am a skilled AI & Machine Learning Engineer and Full-Stack Developer. Speciali
 - **AI Frameworks 🧑‍💻:** TensorFlow, PyTorch, Hugging Face
 
 ## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=glowsenior&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glowsenior&layout=compact&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=glowsenior&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=glowsenior&show_icons=true&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glowsenior&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+</p>
 
 ## 📫 Contact Me
 
