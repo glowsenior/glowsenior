@@ -1,4 +1,4 @@
-## 📚 Skill Set
+
 <table align="center">  
     <tr>  
         <td align="center" width="96">  
@@ -86,8 +86,6 @@
     </tr>  
 </table>
 
-#### 💻 PROFESSIONAL AREA
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)&nbsp;
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&style=flat)&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=Flask&logoColor=white&style=flat)&nbsp;
@@ -101,7 +99,6 @@
 ![Twillio](https://img.shields.io/badge/-Twilio-333333?style=flat&logo=Twilio)&nbsp;
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=Selenium&logoColor=white&style=flat)&nbsp;
 
-#### 📡 STRONG KNOWLEDGE AREA
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=badge&logo=.net&logoColor=white&style=flat)&nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green&style=flat)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&style=flat)&nbsp;
