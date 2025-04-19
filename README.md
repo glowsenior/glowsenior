@@ -109,7 +109,7 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-808080?style=flat&logo=kubernetes&logoColor=326CE5&style=flat)&nbsp;
 
 
-# Hi there, I'm Tanaka Daan 👋
+# Hi there 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=glowsenior&color=blue)
 
