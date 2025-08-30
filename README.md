@@ -120,7 +120,6 @@ I am a skilled AI & Machine Learning Engineer and Full-Stack Developer. Speciali
 - 🌱 I’m currently learning advanced reinforcement learning techniques.
 - 👯 I’m looking to collaborate on open-source AI projects.
 - 💬 Ask me about AI, machine learning, or full-stack development.
-- 📫 How to reach me: [glowsenior@yahoo.com](mailto:glowsenior@yahoo.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a black belt in AI debugging.
 
