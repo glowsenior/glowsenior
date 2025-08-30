@@ -120,7 +120,7 @@ I am a skilled AI & Machine Learning Engineer and Full-Stack Developer. Speciali
 - 🌱 I’m currently learning advanced reinforcement learning techniques.
 - 👯 I’m looking to collaborate on open-source AI projects.
 - 💬 Ask me about AI, machine learning, or full-stack development.
-- 📫 How to reach me: [glowsenior@gmail.com](mailto:glowsenior@gmail.com)
+- 📫 How to reach me: [glowsenior@yahoo.com](mailto:glowsenior@yahoo.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a black belt in AI debugging.
 
@@ -184,9 +184,4 @@ I am a skilled AI & Machine Learning Engineer and Full-Stack Developer. Speciali
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glowsenior&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
 </p>
 
-## 📫 Contact Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-333333?style=flat&logo=whatsapp)]
-[![Email](https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail)](mailto:glowsenior@gmail.com)
 
